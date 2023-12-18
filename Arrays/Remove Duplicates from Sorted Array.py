@@ -1,4 +1,4 @@
-# Remove Duplicates - Coding Ninjas 
+# Remove Duplicates - Coding Ninjas
 def removeDuplicates(arr,n):
     new = []
     new.append(arr[0])
