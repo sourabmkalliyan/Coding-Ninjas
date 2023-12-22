@@ -1,4 +1,4 @@
-# Coding Ninjas - 
+# Coding Ninjas - Left Rotate an Array by One
 from sys import *
 from collections import *
 from math import *
